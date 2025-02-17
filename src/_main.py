@@ -8,7 +8,6 @@ from logger_wrapper import LoggerWrapper
 
 
 input = Input(
-    home_adress = "55 rue du Faubourg-Saint-Honoré 75008 Paris", #Your adress
     doctolib_search_url = "https://www.doctolib.fr/medecin-generaliste/paris", #Url to your search
     search_name = "médecin_généraliste", #Your search name
 )
