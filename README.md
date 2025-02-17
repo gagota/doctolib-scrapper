@@ -75,12 +75,14 @@ Open '_main.py' (in the 'src' folder) with your prefered IDE (like VS Code).
 
 Paste the url in the `doctolib_search_url` variable.
 
-[Script '_main.py' paste url in `doctolib_search_url`]
+![Script '_main.py' paste url in `doctolib_search_url`](screenshots/script_search_url.PNG)
 
 Enter a search name in the `search_name` variable. It will be the name of the folder containing the gathered data.
 
-[Change `search_name`]
+![Change `search_name`](screenshots/script_search_name.PNG)
 
 You can tweak the parameters as you like in the `parameters` object.
+
+![Change `parameters`](screenshots/script_parameters.PNG)
 
 Play the script, and watch the magic happen before your eyes ;)
